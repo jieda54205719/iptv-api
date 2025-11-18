@@ -215,6 +215,8 @@ http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
 https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="📡卫视频道",TVB翡翠
 https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="📡卫视频道",TVB翡翠
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-name="TVB_PULS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB_PULS.png" group-title="📡卫视频道",TVB_PULS
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="TVB_PULS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB_PULS.png" group-title="📡卫视频道",TVB_PULS
