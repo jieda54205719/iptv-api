@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 18:35:06,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-22 06:25:14,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
@@ -12,7 +12,6 @@ CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
-CCTV-9,http://sh.lnott.top:880/dx09.m3u8
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
@@ -22,7 +21,6 @@ CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📡卫视频道,#genre#
@@ -36,16 +34,8 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
-凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
-凤凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
